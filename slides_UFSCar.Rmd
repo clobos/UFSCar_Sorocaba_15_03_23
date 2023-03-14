@@ -1,15 +1,8 @@
 ---
-title: "Seminário UFSCar, Sorocaba l"
+title: "Seminário UFSCar, Sorocaba"
 author: "Cristian Villegas (clobos@usp.br)"
 date: "15 de Março de 2023"
 output:
-  slidy_presentation: 
-    fig_width: 6
-    fig_height: 3
-    fig_caption: yes
-    incremental: yes
-    highlight: zenburn
-    keep_md: yes
   powerpoint_presentation:
     toc: no
     fig_caption: yes
@@ -17,11 +10,18 @@ output:
     theme: CambridgeUS
     fonttheme: serif
     fig_width: 6
-    fig_height: 3
+    fig_height: 2
     fig_caption: yes
     highlight: zenburn
     keep_tex: yes
     incremental: yes
+  slidy_presentation: 
+    fig_width: 6
+    fig_height: 3
+    fig_caption: yes
+    incremental: yes
+    highlight: zenburn
+    keep_md: yes
   ioslides_presentation: 
     fig_width: 6
     fig_height: 3
@@ -32,7 +32,6 @@ output:
     highlight: zenburn
     transition: slower
     keep_md: yes
-email: clobos@usp.br
 institute: Universidade de São Paulo
 ---
 
