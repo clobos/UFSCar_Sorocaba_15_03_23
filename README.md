@@ -1,0 +1,1 @@
+Seminário apresentado via google meet no dia **15/03/2023** aos alunos da disciplina **Probabilidade e Estatistica**, curso de **bacharelado em Ciência da Computação** da **UFSCar**, campus de Sorocaba.
